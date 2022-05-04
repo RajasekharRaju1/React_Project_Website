@@ -1,2 +1,2 @@
 # React_Project_Website
-React_Project_Website_site repo
+React_Project_Website_site repository
